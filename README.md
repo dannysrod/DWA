@@ -1,6 +1,12 @@
-# DWA
+# Danny's Simple Weather App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
+
+I used Font Awesome for some cool icons and have fetched the data from the Open Weather Map API.
+
+Thank you to Code First - Nitij for your tutorial. 
+
+See his channel here: https://www.youtube.com/c/codefirst
 
 ## Development server
 
