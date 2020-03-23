@@ -3,7 +3,7 @@
   "version": 1, 
   "newProjectRoot": "projects",
   "projects": {
-    "DWA": {
+    "dwa": {
       "projectType": "application",
       "schematics": {},
       "root": "",
